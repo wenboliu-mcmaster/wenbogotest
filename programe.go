@@ -44,7 +44,7 @@ func createMovie(w http.ResponseWriter, r *http.Request) {
 	fmt.Println("this is to create a movie")
 }
 func updateMovie(w http.ResponseWriter, r *http.Request) {
-	fmt.Println("this is to update a movie")
+	fmt.Println("this is to update a movie2222")
 
 }
 
